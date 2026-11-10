@@ -1,0 +1,4 @@
+Flask==3.1.0
+scikit-learn==1.6.1
+google-genai
+werkzeug==3.1.3
